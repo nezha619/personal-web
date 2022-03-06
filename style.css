@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+.red-highlight{
+    color: red;
+}
+h1{
+    font-size: 30px;
+}
+
+section{
+    margin: 60px;
+}
+.half-width{
+    width: 45%;
+    float: left;
+    margin-left: 10px;
+    padding-left: 50px;
+}
+.half-width img{
+    width: 80%;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
